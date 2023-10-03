@@ -16,5 +16,8 @@ const randomNumber = Math.round(Math.random() * 99);
 // Aggiungi il numero casuale alla fine
 const password = name + surname + color + randomNumber;
 
-// Scrivi il risultato sulla pagina
-document.write("La tua password è: " + password);
+// Seleziona un elemento HTML esistente
+const outputElement = document.getElementById("output");
+
+// Imposta il contenuto dell'elemento
+outputElement.innerHTML = "La tua password è: " + password;
