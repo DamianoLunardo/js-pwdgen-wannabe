@@ -1,7 +1,7 @@
 # Primo esercizio js
 
 ### Consegna:
-Chiedi all’utente il suo nome, poi chiedi il suo cognome, poi chiedi il suo colore preferito. Infine scrivi sulla pagina il risultato della concatenazione
+Chiedi all’utente il suo nome, poi chiedi il suo cognome, poi chiedi il suo colore preferito. Infine scrivi sulla pagina il risultato della concatenazione. Genera randomicamente il numero da concatenare nella password.
 
 
 
